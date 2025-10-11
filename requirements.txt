@@ -1,0 +1,9 @@
+crewai==0.201.1
+crewai-tools==0.75.0
+pydantic==2.12.0
+scrapegraph-py==1.33.0
+tavily-python==0.7.12
+dotenv-python==0.0.1
+streamlit==1.50.0
+
+# !pip install -r requirements.txt
