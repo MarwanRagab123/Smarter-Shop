@@ -116,10 +116,3 @@ If you add external API keys or secrets, add them to `.env` and do not commit th
 MIT — see the `LICENSE` file for details.
 
 ---
-
-If you want, I can also:
-
-- add a small `docs/` folder with architecture diagrams, or
-- generate a `CONTRIBUTING.md` and sample issue/PR templates.
-
-Tell me which option you prefer and I will update the repo.
